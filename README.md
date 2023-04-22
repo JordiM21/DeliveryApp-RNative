@@ -48,9 +48,16 @@ You can also see the deployment on the Expo Go Page by clicking this link https:
 ## Screenshots
 
 - Views of the ios **(Iphone 13 PRO)**
-![App Screenshot](https://i.imgur.com/aRxo05Q.jpeg)
-![App Screenshot](https://i.imgur.com/82oxAAq.jpeg)
-![App Screenshot](https://i.imgur.com/rBBAaj6.jpeg)
-![App Screenshot](https://i.imgur.com/C4r5ZKq.jpeg)
+
+<div style={{display="flex"}}>
+<img src="https://i.imgur.com/aRxo05Q.jpeg" width="200" />
+
+<img src="https://i.imgur.com/82oxAAq.jpeg" width="200" />
+
+<img src="https://i.imgur.com/rBBAaj6.jpeg" width="200" />
+
+<img src="https://i.imgur.com/C4r5ZKq.jpeg" width="200" />
+</div>
+
 
 
